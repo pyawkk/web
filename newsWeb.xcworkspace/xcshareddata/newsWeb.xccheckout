@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>91AA1ED7-C7B0-4E39-BB9C-903749CA0BEC</string>
+	<key>IDESourceControlProjectName</key>
+	<string>newsWeb</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>BC3686AF8AD6DFB06D9C721B059760B9CFC15550</key>
+		<string>https://github.com/pyawkk/web.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>newsWeb.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>BC3686AF8AD6DFB06D9C721B059760B9CFC15550</key>
+		<string>..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/pyawkk/web.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>BC3686AF8AD6DFB06D9C721B059760B9CFC15550</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>BC3686AF8AD6DFB06D9C721B059760B9CFC15550</string>
+			<key>IDESourceControlWCCName</key>
+			<string>newsWeb</string>
+		</dict>
+	</array>
+</dict>
+</plist>

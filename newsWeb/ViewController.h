@@ -7,8 +7,9 @@
 //
 
 #import <UIKit/UIKit.h>
+#import <MJExtension.h> 
 
-@interface ViewController : UIViewController
+@interface ViewController : UITableViewController
 
 
 @end
