@@ -16,6 +16,12 @@
 		4C035D061A92E4E400C46B70 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 4C035D041A92E4E400C46B70 /* LaunchScreen.xib */; };
 		4C035D121A92E4E400C46B70 /* newsWebTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 4C035D111A92E4E400C46B70 /* newsWebTests.m */; };
 		4C9FF0261A9D72B400741A09 /* MBNHttpManager.m in Sources */ = {isa = PBXBuildFile; fileRef = 4C9FF0251A9D72B400741A09 /* MBNHttpManager.m */; };
+		4C9FF0291A9D865300741A09 /* newsModel.m in Sources */ = {isa = PBXBuildFile; fileRef = 4C9FF0281A9D865300741A09 /* newsModel.m */; };
+		4C9FF02C1A9D8E2C00741A09 /* MBNTableViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 4C9FF02B1A9D8E2C00741A09 /* MBNTableViewCell.m */; };
+		4C9FF0301A9D9D9900741A09 /* MBNDetailViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 4C9FF02E1A9D9D9900741A09 /* MBNDetailViewController.m */; };
+		4C9FF0331A9D9DEF00741A09 /* MBNDetailViewController.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4C9FF0321A9D9DEF00741A09 /* MBNDetailViewController.storyboard */; };
+		4C9FF0361A9DA10700741A09 /* DetailModel.m in Sources */ = {isa = PBXBuildFile; fileRef = 4C9FF0351A9DA10700741A09 /* DetailModel.m */; };
+		4C9FF03A1A9DA24900741A09 /* MBNImage.m in Sources */ = {isa = PBXBuildFile; fileRef = 4C9FF0391A9DA24900741A09 /* MBNImage.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -44,6 +50,17 @@
 		4C035D111A92E4E400C46B70 /* newsWebTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = newsWebTests.m; sourceTree = "<group>"; };
 		4C9FF0241A9D72B400741A09 /* MBNHttpManager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MBNHttpManager.h; sourceTree = "<group>"; };
 		4C9FF0251A9D72B400741A09 /* MBNHttpManager.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MBNHttpManager.m; sourceTree = "<group>"; };
+		4C9FF0271A9D865300741A09 /* newsModel.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = newsModel.h; sourceTree = "<group>"; };
+		4C9FF0281A9D865300741A09 /* newsModel.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = newsModel.m; sourceTree = "<group>"; };
+		4C9FF02A1A9D8E2C00741A09 /* MBNTableViewCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MBNTableViewCell.h; sourceTree = "<group>"; };
+		4C9FF02B1A9D8E2C00741A09 /* MBNTableViewCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MBNTableViewCell.m; sourceTree = "<group>"; };
+		4C9FF02D1A9D9D9900741A09 /* MBNDetailViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MBNDetailViewController.h; sourceTree = "<group>"; };
+		4C9FF02E1A9D9D9900741A09 /* MBNDetailViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MBNDetailViewController.m; sourceTree = "<group>"; };
+		4C9FF0321A9D9DEF00741A09 /* MBNDetailViewController.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = MBNDetailViewController.storyboard; sourceTree = "<group>"; };
+		4C9FF0341A9DA10700741A09 /* DetailModel.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DetailModel.h; sourceTree = "<group>"; };
+		4C9FF0351A9DA10700741A09 /* DetailModel.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DetailModel.m; sourceTree = "<group>"; };
+		4C9FF0381A9DA24900741A09 /* MBNImage.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MBNImage.h; sourceTree = "<group>"; };
+		4C9FF0391A9DA24900741A09 /* MBNImage.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MBNImage.m; sourceTree = "<group>"; };
 		8103B820AA5C520CAFE343BD /* Pods.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = Pods.debug.xcconfig; path = "Pods/Target Support Files/Pods/Pods.debug.xcconfig"; sourceTree = "<group>"; };
 		A0CA126431487C66D00C9275 /* Pods.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = Pods.release.xcconfig; path = "Pods/Target Support Files/Pods/Pods.release.xcconfig"; sourceTree = "<group>"; };
 		D7A38C73AB7084B247E9C598 /* libPods.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = libPods.a; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -105,11 +122,22 @@
 				4C035CFC1A92E4E400C46B70 /* ViewController.h */,
 				4C035CFD1A92E4E400C46B70 /* ViewController.m */,
 				4C035CFF1A92E4E400C46B70 /* Main.storyboard */,
+				4C9FF02A1A9D8E2C00741A09 /* MBNTableViewCell.h */,
+				4C9FF02B1A9D8E2C00741A09 /* MBNTableViewCell.m */,
+				4C9FF02D1A9D9D9900741A09 /* MBNDetailViewController.h */,
+				4C9FF02E1A9D9D9900741A09 /* MBNDetailViewController.m */,
+				4C9FF0321A9D9DEF00741A09 /* MBNDetailViewController.storyboard */,
 				4C035D021A92E4E400C46B70 /* Images.xcassets */,
 				4C035D041A92E4E400C46B70 /* LaunchScreen.xib */,
 				4C9FF0241A9D72B400741A09 /* MBNHttpManager.h */,
 				4C9FF0251A9D72B400741A09 /* MBNHttpManager.m */,
 				4C035CF51A92E4E400C46B70 /* Supporting Files */,
+				4C9FF0271A9D865300741A09 /* newsModel.h */,
+				4C9FF0281A9D865300741A09 /* newsModel.m */,
+				4C9FF0341A9DA10700741A09 /* DetailModel.h */,
+				4C9FF0351A9DA10700741A09 /* DetailModel.m */,
+				4C9FF0381A9DA24900741A09 /* MBNImage.h */,
+				4C9FF0391A9DA24900741A09 /* MBNImage.m */,
 			);
 			path = newsWeb;
 			sourceTree = "<group>";
@@ -233,6 +261,7 @@
 				4C035D011A92E4E400C46B70 /* Main.storyboard in Resources */,
 				4C035D061A92E4E400C46B70 /* LaunchScreen.xib in Resources */,
 				4C035D031A92E4E400C46B70 /* Images.xcassets in Resources */,
+				4C9FF0331A9D9DEF00741A09 /* MBNDetailViewController.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -284,9 +313,14 @@
 			buildActionMask = 2147483647;
 			files = (
 				4C035CFE1A92E4E400C46B70 /* ViewController.m in Sources */,
+				4C9FF03A1A9DA24900741A09 /* MBNImage.m in Sources */,
+				4C9FF0301A9D9D9900741A09 /* MBNDetailViewController.m in Sources */,
 				4C035CFB1A92E4E400C46B70 /* AppDelegate.m in Sources */,
 				4C035CF81A92E4E400C46B70 /* main.m in Sources */,
+				4C9FF0361A9DA10700741A09 /* DetailModel.m in Sources */,
 				4C9FF0261A9D72B400741A09 /* MBNHttpManager.m in Sources */,
+				4C9FF0291A9D865300741A09 /* newsModel.m in Sources */,
+				4C9FF02C1A9D8E2C00741A09 /* MBNTableViewCell.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
